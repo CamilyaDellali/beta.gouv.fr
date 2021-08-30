@@ -1,10 +1,10 @@
 ---
 fullname: Camilya Dellali
-role: Stagiaire chargée de support 
+role: chargée de développement 
 domaine: Déploiement
 missions:
-  - start: 2021-04-06
-    end: 2021-08-31
+  - start: 2021-31-08
+    end: 2021
     status: admin
     employer: DINUM
 startups:
