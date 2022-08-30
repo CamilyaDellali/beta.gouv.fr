@@ -11,6 +11,10 @@ missions:
     end: 2022-08-31
     status: independent
     employer: Démarches-simplifiées
+  - start: 2022-08-31
+    end: 2023-08-31
+    status: independent
+    employer: Démarches-simplifiées
 startups:
   - demarches-simplifiees.fr
 ---
